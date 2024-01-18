@@ -1,5 +1,10 @@
-header{
+nav{
     background-color: lightblue;
     color: black;
-    
+
+}
+
+footer{
+background-color: lightpink;
+font-size: 5px;
 }
